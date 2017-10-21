@@ -7,6 +7,8 @@ mkdir software
 
 cd software
 
+
+
 sudo apt-get install git
 git clone https://github.com/JYamihud/JYExchange
 
@@ -22,6 +24,11 @@ sudo pip2 install Image
 cd JYExchange
 python jyexchange.py
 
+sudo apt-get install recordmydesktop
 
+echo
+echo
+echo FINISHED
+echo
 
 
